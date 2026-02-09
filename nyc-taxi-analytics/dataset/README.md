@@ -3,5 +3,9 @@
 #### Taxi Data set
 - The data set itself is a simple text file. Each taxi trip report is a different line in the file. Among other things, each trip report includes the starting point, the drop-off point, corresponding timestamps, and information related to the payment. The data are reported by the time that the trip ended, i.e., upon arrive in the order of the drop-off timestamps. The attributes present on each line of the file are in order as it was shown in table 1. The data files are in comma separated values (CSV) format. 
 
+<img width="919" height="559" alt="image" src="https://github.com/user-attachments/assets/a5386718-d86a-44ea-a60e-8a9a1274b5ce" />
+
+
+
 
 The data set  (93 MB compressed, uncompressed 384 MB) is available at the following url on Google Cloud : gs://meetcs777/taxi-data-sorted-small.csv.bz2
